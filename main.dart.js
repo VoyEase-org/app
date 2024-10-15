@@ -105550,7 +105550,7 @@ while(true)switch(s){case 0:o=p.gDM()
 n=A
 s=3
 return A.t(t.L0.b(o)?o:A.hi(o,t.z),$async$e1)
-case 3:o=n.b2x(null,d,B.BF,null,"http://ec2-13-127-182-19.ap-south-1.compute.amazonaws.com:8080/"+b)
+case 3:o=n.b2x(null,d,B.BF,null,"https://api.voyease.in:8080/"+b)
 q=new A.mb(new A.aCj(),o,o.$ti.i("mb<by.T,i?>"))
 s=1
 break
@@ -105576,7 +105576,7 @@ o.hf()
 A.hY(l,o,t.uF)
 o=$.av
 k=(o==null?$.av=B.z:o).c9(0,m,k)
-o=A.b_g(A.aZo("http://ec2-13-127-182-19.ap-south-1.compute.amazonaws.com:8080"))
+o=A.b_g(A.aZo("https://api.voyease.in:8080"))
 k=new A.E0(o,k)
 o=o.pE$
 o.C(o,new A.VL(k.gAI(),k.gHo(k),m,m,m))
