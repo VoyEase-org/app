@@ -1,11 +1,11 @@
 {
-  "name": "guide_app",
-  "short_name": "guide_app",
+  "name": "VoyEase Guide",
+  "short_name": "VoyEase Guide",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#0175C2",
-  "theme_color": "#0175C2",
-  "description": "A new Flutter project.",
+  "background_color": "#285A84",
+  "theme_color": "#FF7449",
+  "description": "Voyease Guide App",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
