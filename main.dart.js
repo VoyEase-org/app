@@ -105920,10 +105920,10 @@ case 1:return A.o(q,r)}})
 return A.p($async$$0,r)},
 $S:32}
 A.awL.prototype={
-$0(){this.a.xU("https://www.voyease.in/guide_and_buddy_tnc")},
+$0(){this.a.xU("https://www.voyease.in/tour-guide-terms")},
 $S:0}
 A.awM.prototype={
-$0(){this.a.xU("https://www.voyease.in/privacy_policy")},
+$0(){this.a.xU("https://www.voyease.in/privacy-policy")},
 $S:0}
 A.oJ.prototype={
 en(){var s=0,r=A.q(t.H),q,p=this,o,n,m,l,k,j,i,h
